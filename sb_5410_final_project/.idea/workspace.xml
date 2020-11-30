@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b37183d1-6029-472f-bbb6-2a520a97f2b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1l0v0Mnud9BwZWkxMagAZ7XPqBH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Gui">
+    <configuration name="Gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sb_5410_final_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Gui_bk01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sb_5410_final_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Gui_bk01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MandelRayBulb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sb_5410_final_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/MandelRayBulb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Gui" />
+        <item itemvalue="Python.MandelRayBulb" />
+        <item itemvalue="Python.Gui_bk01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b37183d1-6029-472f-bbb6-2a520a97f2b7" name="Default Changelist" comment="" />
+      <created>1606746598340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606746598340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1196" height="303" key="GridCell.Tab.0.bottom" timestamp="1606763476453">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1196" height="303" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1606763476453" />
+    <state width="1196" height="244" key="GridCell.Tab.0.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1606760225745" />
+    <state width="1196" height="244" key="GridCell.Tab.0.bottom/0.23.1920.1006@0.23.1920.1006" timestamp="1606760028208" />
+    <state width="1196" height="303" key="GridCell.Tab.0.center" timestamp="1606763476453">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1196" height="303" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1606763476453" />
+    <state width="1196" height="244" key="GridCell.Tab.0.center/0.23.1920.1004@0.23.1920.1004" timestamp="1606760225744" />
+    <state width="1196" height="244" key="GridCell.Tab.0.center/0.23.1920.1006@0.23.1920.1006" timestamp="1606760028207" />
+    <state width="1196" height="303" key="GridCell.Tab.0.left" timestamp="1606763476452">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1196" height="303" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1606763476452" />
+    <state width="1196" height="244" key="GridCell.Tab.0.left/0.23.1920.1004@0.23.1920.1004" timestamp="1606760225744" />
+    <state width="1196" height="244" key="GridCell.Tab.0.left/0.23.1920.1006@0.23.1920.1006" timestamp="1606760028207" />
+    <state width="1196" height="303" key="GridCell.Tab.0.right" timestamp="1606763476453">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1196" height="303" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1606763476453" />
+    <state width="1196" height="244" key="GridCell.Tab.0.right/0.23.1920.1004@0.23.1920.1004" timestamp="1606760225744" />
+    <state width="1196" height="244" key="GridCell.Tab.0.right/0.23.1920.1006@0.23.1920.1006" timestamp="1606760028208" />
+    <state width="1196" height="303" key="GridCell.Tab.1.bottom" timestamp="1606763476454">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1196" height="303" key="GridCell.Tab.1.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1606763476454" />
+    <state width="1196" height="303" key="GridCell.Tab.1.center" timestamp="1606763476454">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1196" height="303" key="GridCell.Tab.1.center/0.23.1920.1002@0.23.1920.1002" timestamp="1606763476454" />
+    <state width="1196" height="303" key="GridCell.Tab.1.left" timestamp="1606763476454">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1196" height="303" key="GridCell.Tab.1.left/0.23.1920.1002@0.23.1920.1002" timestamp="1606763476454" />
+    <state width="1196" height="303" key="GridCell.Tab.1.right" timestamp="1606763476454">
+      <screen x="0" y="23" width="1920" height="1002" />
+    </state>
+    <state width="1196" height="303" key="GridCell.Tab.1.right/0.23.1920.1002@0.23.1920.1002" timestamp="1606763476454" />
+    <state x="527" y="179" key="SettingsEditor" timestamp="1606747732518">
+      <screen x="0" y="23" width="1920" height="1006" />
+    </state>
+    <state x="527" y="179" key="SettingsEditor/0.23.1920.1006@0.23.1920.1006" timestamp="1606747732518" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/Fractals.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
