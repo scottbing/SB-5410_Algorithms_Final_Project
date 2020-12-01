@@ -1,0 +1,3 @@
+#!/Users/scottbing/Documents/NMHU/Fall2020/BSSD5410Algorithms/Final/try_final/venv/bin/python
+from numba.pycc import main
+main()
