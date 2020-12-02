@@ -112,4 +112,4 @@ def mandelraybulb():
 
 
 if __name__ == "__main__":
-    main()
+    mandelraybulb()

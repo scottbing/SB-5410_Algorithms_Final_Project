@@ -38,40 +38,6 @@ def anim_surfacetriangulation():
         ys.extend(ys_)
         zs.extend(zs_)
 
-    # if angle[0] == 0 and angle[1] == 0 and angle[2] != 0:
-    #     points2D = np.vstack([xs_, ys_]).T
-    #     tri = Delaunay(points2D)
-    #     simplices = tri.simplices
-    #     data_test.extend(FF.create_trisurf(x=xs_,
-    #                                        y=ys_,
-    #                                        z=zs_,
-    #                                        plot_edges=False,
-    #                                        colormap=colormap,
-    #                                        simplices=simplices,
-    #                                        title="Isosurface")['data'])
-    # if angle[0] == 0 and angle[1] != 0 and angle[2] == 0:
-    #     points2D = np.vstack([xs_, zs_]).T
-    #     tri = Delaunay(points2D)
-    #     simplices = tri.simplices
-    #     data_test.extend(FF.create_trisurf(x=xs_,
-    #                                        y=ys_,
-    #                                        z=zs_,
-    #                                        plot_edges=False,
-    #                                        colormap=colormap,
-    #                                        simplices=simplices,
-    #                                        title="Isosurface")['data'])
-    # if angle[0] != 0 and angle[1] == 0 and angle[2] == 0:
-    #     points2D = np.vstack([ys_, zs_]).T
-    #     tri = Delaunay(points2D)
-    #     simplices = tri.simplices
-    #     data_test.extend(FF.create_trisurf(x=xs_,
-    #                                        y=ys_,
-    #                                        z=zs_,
-    #                                        plot_edges=False,
-    #                                        colormap=colormap,
-    #                                        simplices=simplices,
-    #                                        title="Isosurface")['data'])
-
     pd.set_option('display.max_rows', None)
     df = pd.DataFrame({'X': xs, 'Y': ys, 'Z': zs}).sort_values(by=['Z'])
 
@@ -95,10 +61,6 @@ def anim_surfacetriangulation():
     data = [mesh]
     fig = go.Figure(data=data)
     plot(fig, filename='Alphahull.html', auto_open=True)
-
-    self.clearScreen()
-
-
 # end def animSurfaceTriangulation():
 
 def anim_mandelraybulb():
@@ -117,10 +79,6 @@ def anim_mandelraybulb():
     fig = go.Figure(data=data, layout=layout)
 
     plotly.offline.plot(fig, filename="MandelBulb.html")
-
-    self.clearScreen()
-
-
 # end anim_mandelraybulb():
 
 def anim_random():
